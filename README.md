@@ -50,6 +50,11 @@ This repo provides a simple Python-Flask Server for image processing capabilitie
              "version": "$VERSION"
          }
 
+### /resize [0.1]
+    $POST_Request
+    {
+    "url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Vizag-Secunderabad_Vande_Bharat_Express.jpg"
+    }
 
 
 

@@ -3,6 +3,13 @@
 This repo provides a simple Python-Flask Server for image processing capabilities using Python, for POC of imagekit replacement 
 
 
+## List of Processors
+* Crop
+* filter
+* overlay
+* resize
+
+
 ## Pending Items
 * Resize API Storage to s3
 * Caching 

@@ -12,6 +12,10 @@ This repo provides a simple Python-Flask Server for image processing capabilitie
 
 ## Pending Items
 * Resize API Storage to s3
+* Telemetry
+    * Prometheus
+    * AWS Telemetry Listener integration
+
 * Caching 
    * Local caching BYTES/resized extension
    * Global -> CDN Caching 
